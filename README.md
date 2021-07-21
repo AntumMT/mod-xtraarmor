@@ -4,6 +4,8 @@
 
 More armors for [Mintest](https://www.minetest.net/) created by [davidthecreatore](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11158).
 
+![screenshot](screenshot.png)
+
 ### Licensing:
 
 - [CC BY-SA 3.0](license.txt)
