@@ -1356,7 +1356,3 @@ minetest.register_craft({
 	output = "xtraarmor:boots_leather_brown",
 	recipe = {"xtraarmor:boots_leather", "dye:brown"},
 })
-
-
-
-
