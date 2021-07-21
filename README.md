@@ -2,7 +2,7 @@
 
 ### Description:
 
-More armors for [Mintest](https://www.minetest.net/) created by [davidthecreatore](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11158).
+More armors for [Mintest](https://www.minetest.net/) created by [davidthecreator](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11158).
 
 ![screenshot](screenshot.png)
 
