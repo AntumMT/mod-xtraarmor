@@ -2,7 +2,7 @@
 
 ### Description:
 
-More armors for [Mintest](https://www.minetest.net/) created by [davidthecreator](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=11158).
+More armors for [Luanti (Mintest)](https://www.luanti.org/) created by [davidthecreator](https://content.luanti.org/users/davidthecreator/).
 
 ![screenshot](screenshot.png)
 
@@ -15,8 +15,7 @@ More armors for [Mintest](https://www.minetest.net/) created by [davidthecreator
 Depends:
 - 3d_armor
 - shields
-
-Optional depends:
+- default
 - mobs
 - xpanes
 
